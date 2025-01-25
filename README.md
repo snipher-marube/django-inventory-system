@@ -13,11 +13,11 @@ The Smart Inventory System is a Django-based web application designed to help bu
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/smart-inventory-system.git
+    git clone https://github.com/snipher-marube/django-inventory-system.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd smart-inventory-system
+    cd django-inventory-system
     ```
 3. Install the required dependencies:
     ```bash
@@ -48,4 +48,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [sniphermarube@gmail.com](mailto:sniphermarube@gmail.com).
