@@ -93,7 +93,7 @@ The Smart Inventory System is a Django-based web application designed to help bu
     If you want to schedule periodic tasks, start Celery beat:
     ```bash
     celery -A inventory_system beat --loglevel=info
-  ```
+    ```
 
 4. Start Flower for Monitoring:
     Flower is a web-based tool for monitoring Celery tasks. Start Flower:
