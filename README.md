@@ -127,17 +127,17 @@ The Smart Inventory System is a Django-based web application designed to help bu
 Contributions are welcome! Please follow this steps.
 1. Fork repository.
 2. Create a new branch for your feature or bugfix:
-        ```bash
-        git checkout -b feature/your-feature-name
-        ```
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
 3. commit your changes:
-        ```bash
-        git commit -m "Add your feature"
-        ```
+    ```bash
+    git commit -m "Add your feature"
+    ```
 4. Push to the branch:
-        ```bash
-        git push origin feature/your-feature-name
-        ```
+    ```bash
+    git push origin feature/your-feature-name
+    ```
 5. Submit a pull request.
 
 ## License
