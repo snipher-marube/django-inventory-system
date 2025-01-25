@@ -34,7 +34,7 @@ class Product(models.Model):
         verbose_name_plural = 'Products'
         ordering = ['name']
 
-    def need_reorder(self):
+    def needs_reorder(self):
         return self.quantity < self.threshold
     
 class Order(models.Model):

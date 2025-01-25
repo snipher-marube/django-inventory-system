@@ -6,4 +6,4 @@ class InventoryConfig(AppConfig):
     name = 'inventory'
 
     def ready(self):
-        from .signals import create_order_on_low_stock
+        import inventory.signals
